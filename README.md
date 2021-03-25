@@ -11,12 +11,12 @@
 <hr>
 
 - [x] 谷歌(Google)
+- [x] 苹果(Apple)
 
 ### TODO
 
 <hr>
 
-- [ ] 苹果(Apple)
 - [ ] 安卓(Android)
 - [ ] 三星(Samsung)
 - [ ] 华为(Huawei)
