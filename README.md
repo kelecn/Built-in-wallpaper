@@ -12,6 +12,7 @@
 
 - [x] 谷歌(Google)
 - [x] 苹果(Apple)
+- [x] 小米(Xiaomi)
 
 ### TODO
 
@@ -20,7 +21,6 @@
 - [ ] 安卓(Android)
 - [ ] 三星(Samsung)
 - [ ] 华为(Huawei)
-- [ ] 小米(Xiaomi)
 - [ ] Oppo
 - [ ] Vivo
 - [ ] 一加(OnePlus)
