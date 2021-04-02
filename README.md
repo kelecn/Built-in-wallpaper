@@ -10,17 +10,17 @@
 
 <hr>
 
-- [x] 谷歌(Google)
+- [x] 安卓(Android)
 - [x] 苹果(Apple)
 - [x] 小米(Xiaomi)
+- [x] 华为(Huawei)
 
 ### TODO
 
 <hr>
 
-- [ ] 安卓(Android)
+- [ ] 谷歌(Google)
 - [ ] 三星(Samsung)
-- [ ] 华为(Huawei)
 - [ ] Oppo
 - [ ] Vivo
 - [ ] 一加(OnePlus)
