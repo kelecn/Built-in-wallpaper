@@ -15,7 +15,7 @@
 - [x] 谷歌(Google)
 - [x] 小米(Xiaomi)
 - [x] 华为(Huawei)
-
+- [x] 魅族(Meizu)
 ### TODO
 
 <hr>
@@ -24,7 +24,6 @@
 - [ ] Oppo
 - [ ] Vivo
 - [ ] 一加(OnePlus)
-- [ ] 魅族(Meizu)
 - [ ] 联想(Lenovo)
 - [ ] 中兴(ZTE)
 - [ ] 摩托罗拉(Motorola)
