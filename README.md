@@ -23,13 +23,13 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 华为(Huawei)
 - [x] 魅族(Meizu)
 - [x] 一加(OnePlus)
-- [x] Oppo
+- [x] OPPO
+- [x] VIVO
 ### TODO
 
 <hr>
 
 - [ ] 三星(Samsung)
-- [ ] Vivo
 - [ ] 联想(Lenovo)
 - [ ] 中兴(ZTE)
 - [ ] 摩托罗拉(Motorola)
