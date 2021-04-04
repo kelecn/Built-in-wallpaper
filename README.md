@@ -25,11 +25,11 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 一加(OnePlus)
 - [x] OPPO
 - [x] VIVO
+- [x] 三星(Samsung)
 ### TODO
 
 <hr>
 
-- [ ] 三星(Samsung)
 - [ ] 联想(Lenovo)
 - [ ] 中兴(ZTE)
 - [ ] 摩托罗拉(Motorola)
