@@ -6,6 +6,12 @@
 
 ![](https://7.dusays.com/2021/03/21/1fe39a1e95054.png)
 
+### PREVIEW
+
+<hr>
+
+MY BLOG: https://kelecn.top/wallpaper/
+
 ### DONE
 
 <hr>
@@ -16,6 +22,7 @@
 - [x] 小米(Xiaomi)
 - [x] 华为(Huawei)
 - [x] 魅族(Meizu)
+- [x] 一加(OnePlus)
 ### TODO
 
 <hr>
@@ -23,7 +30,6 @@
 - [ ] 三星(Samsung)
 - [ ] Oppo
 - [ ] Vivo
-- [ ] 一加(OnePlus)
 - [ ] 联想(Lenovo)
 - [ ] 中兴(ZTE)
 - [ ] 摩托罗拉(Motorola)
