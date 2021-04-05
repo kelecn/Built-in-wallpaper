@@ -26,6 +26,7 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] OPPO
 - [x] VIVO
 - [x] 三星(Samsung)
+- [x] HTC
 ### TODO
 
 <hr>
@@ -37,6 +38,5 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [ ] 诺基亚(Nokia)
 - [ ] 美图(Meitu)
 - [ ] LG
-- [ ] HTC
 - [ ] Elephone
 - [ ] 其他(Other)
