@@ -28,6 +28,7 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 三星(Samsung)
 - [x] HTC
 - [x] LG
+- [x] 索尼(Sony)
 ### TODO
 
 <hr>
@@ -35,7 +36,6 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [ ] 联想(Lenovo)
 - [ ] 中兴(ZTE)
 - [ ] 摩托罗拉(Motorola)
-- [ ] 索尼(Sony)
 - [ ] 诺基亚(Nokia)
 - [ ] 美图(Meitu)
 - [ ] Elephone
