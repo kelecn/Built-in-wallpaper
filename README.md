@@ -32,11 +32,11 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 联想(Lenovo)
 - [x] 中兴(ZTE)
 - [x] 摩托罗拉(Motorola)
+- [x] 诺基亚(Nokia)
 ### TODO
 
 <hr>
 
-- [ ] 诺基亚(Nokia)
 - [ ] 美图(Meitu)
 - [ ] Elephone
 - [ ] 其他(Other)
