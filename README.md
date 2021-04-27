@@ -30,11 +30,11 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] LG
 - [x] 索尼(Sony)
 - [x] 联想(Lenovo)
+- [x] 中兴(ZTE)
 ### TODO
 
 <hr>
 
-- [ ] 中兴(ZTE)
 - [ ] 摩托罗拉(Motorola)
 - [ ] 诺基亚(Nokia)
 - [ ] 美图(Meitu)
