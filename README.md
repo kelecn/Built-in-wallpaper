@@ -31,11 +31,11 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 索尼(Sony)
 - [x] 联想(Lenovo)
 - [x] 中兴(ZTE)
+- [x] 摩托罗拉(Motorola)
 ### TODO
 
 <hr>
 
-- [ ] 摩托罗拉(Motorola)
 - [ ] 诺基亚(Nokia)
 - [ ] 美图(Meitu)
 - [ ] Elephone
