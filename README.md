@@ -33,10 +33,10 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 中兴(ZTE)
 - [x] 摩托罗拉(Motorola)
 - [x] 诺基亚(Nokia)
+- [x] 美图(Meitu)
 ### TODO
 
 <hr>
 
-- [ ] 美图(Meitu)
 - [ ] Elephone
 - [ ] 其他(Other)
