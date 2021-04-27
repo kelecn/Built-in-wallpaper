@@ -34,9 +34,9 @@ MY BLOG: https://kelecn.top/wallpaper/
 - [x] 摩托罗拉(Motorola)
 - [x] 诺基亚(Nokia)
 - [x] 美图(Meitu)
+- [x] Elephone
 ### TODO
 
 <hr>
 
-- [ ] Elephone
 - [ ] 其他(Other)
